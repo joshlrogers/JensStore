@@ -1,5 +1,6 @@
 ﻿using System;
 
+// Fuck you Git
 namespace Jens.Store.ConsoleApp
 {
     class Program
